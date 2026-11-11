@@ -102,5 +102,11 @@ B.Tech – Computer Science and Engineering
 GitHub: [Manikanta-Narravula](https://github.com/Manikanta-Narravula)
 
 ---
+## 🌐 Live Demo
 
+🚀 **Try FuelPulse here:**
+
+[https://fuelpulse-1.onrender.com/](https://fuelpulse-1.onrender.com/)
+
+The FuelPulse application is deployed and accessible online.
 ⭐ If you find this project useful, consider giving it a star!
